@@ -9,7 +9,7 @@ CGPython's Documentation
 Another simple header
 =====================
 
-This document is set up for testing purposes.
+This document is set up for testing purposes.::
 
    print 'hello'
    >> hello
